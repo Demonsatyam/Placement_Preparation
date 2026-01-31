@@ -123,59 +123,78 @@ Improved retention through revision and developed consistency in documenting wor
 ## 🧩 Day 1 – DSA Pattern Questions
 
 ### Square Pattern (Numbers)
+```
 1 2 3 4
 1 2 3 4
 1 2 3 4
 1 2 3 4
-
+```
 
 ### Square Pattern (Continuous Numbers)
+```
 1 2 3
 4 5 6
 7 8 9
+```
 
 
 ### Triangle Pattern (Stars)
+```
+
 *
 * *
 * * *
 * * * *
-
+```
 
 ### Triangle Pattern (Repeated Numbers)
+```
+
 1
 2 2
 3 3 3
 4 4 4 4
-
+```
 
 ### Triangle Pattern (Incremental Numbers)
+```
+
 1
 1 2
 1 2 3
 1 2 3 4
-
+```
 
 ### Triangle Pattern (Reverse Numbers)
+```
+
 1
 2 1
 3 2 1
 4 3 2 1
-
+```
 
 ### Floyd’s Triangle
+```
+
 1
 2 3
 4 5 6
 7 8 9 10
 11 12 13 14 15
+```
+
 
 
 ### Inverted Triangle Pattern
+```
+
 1 1 1 1
 2 2 2
 3 3
 4
+```
+
 
 
 ---
