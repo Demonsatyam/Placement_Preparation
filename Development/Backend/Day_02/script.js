@@ -1,4 +1,5 @@
 const fs = require('fs');
+const http = require('http');
 
 // writefile
 // Append
@@ -31,7 +32,15 @@ const fs = require('fs');
 // });
 
 // Delete a file
-fs.unlink('renamed_copiedfile.txt', (err) => {
-    if (err) throw err;
-    console.log('File deleted successfully.');
-});
+// fs.unlink('renamed_copiedfile.txt', (err) => {
+//     if (err) throw err;
+//     console.log('File deleted successfully.');
+// });
+
+// HTTP Server
+// const server = http.createServer((req, res) => {
+//     // res.writeHead(200, { 'Content-Type': 'text/plain' });
+//     res.end('Hello from the HTTP server!\n');
+// });
+
+// server.listen(3000);
