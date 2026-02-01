@@ -195,6 +195,152 @@ Improved retention through revision and developed consistency in documenting wor
 4
 ```
 
+---
+
+## 📅 Day 2 Progress
+**Date:** 01-02-2026 (Sunday)  
+**Day:** 2 / 90
+
+Day 2 focused on **semester subjects, backend fundamentals, Git workflows, and DSA practice**, while compensating for the previous day’s penalty.
+
+---
+
+## 1️⃣ Semester Subject – Ethical Hacking & Cyber Forensics
+
+### Topics Covered:
+- **Ethical Hacking** – understanding hacking performed with legal authorization for security testing
+- **Threat Landscape** – overview of cyber threats in a digital environment
+
+### Threat Landscape Components:
+- Threat Actors  
+- Threat Types  
+- Attack Vectors  
+- Assets at Risk  
+
+### Phases of Hacking:
+1. **Reconnaissance** – information gathering about the target  
+2. **Scanning & Enumeration** – identifying open ports, services, and vulnerabilities  
+3. **Gaining Access** – exploiting vulnerabilities to enter the system  
+4. **Maintaining Access** – installing backdoors or malware for continued access  
+5. **Covering Tracks** – deleting logs, hiding evidence, and avoiding detection  
+
+### Controlled Attack Planning:
+Process of systematically designing and executing simulated attacks in a safe and legal environment.
+
+**Key Elements:**
+- Scope Definition  
+- Authorization  
+- Tool Selection  
+- Risk Assessment  
+- Documentation  
+
+### Penalty Completion (from Day 1 – Core CS):
+Completed **practical file experiments**:
+- **Experiment 1:** Final analysis of attack findings and writing a professional penetration testing report  
+- **Experiment 2:** Understanding basics of digital forensics by collecting and preserving digital evidence  
+
+**Outcome:** Strengthened understanding of ethical hacking methodology and digital forensics fundamentals.
+
+---
+
+## 2️⃣ System + Linux + Git
+
+### Focus:
+Revision of previous learning and Git fundamentals (weekend plan)
+
+### Git Workflow Learned:
+- Initialize repository  
+- Add files → staging area  
+- Commit changes with message  
+- Push commits to repository  
+
+### File States:
+- **U** – Untracked  
+- **A** – Added  
+- **M** – Modified  
+- **C** – Committed  
+
+### Commands Practiced:
+- `git status` – shows current file states  
+- `git status -s` – short status of staged/unstaged files  
+- `git log` – complete commit history  
+- `git log --oneline` – compact commit history  
+- `git log --oneline --graph` – visual commit graph  
+- `git reset` – move back to a previous commit  
+  - `--hard`  
+  - `--soft`  
+  - `--mixed`  
+- `.gitignore` – files and folders excluded from Git tracking  
+
+**Outcome:** Clear understanding of Git lifecycle, staging, commits, and history management.
+
+---
+
+## 3️⃣ Development – Backend
+
+### Topics Covered:
+- **Node.js** – JavaScript runtime environment
+- Setup of **Node.js and NPM**
+- **NPM basics:**
+  - `npm init`
+- Explored Node core module **`fs`**:
+  - `writeFile`
+  - `appendFile`
+  - `copyFile`
+  - `rename`
+  - `unlink`
+- Created and ran first server using Node **`http`** module
+
+**Outcome:** Hands-on experience with Node.js core modules and basic server creation.
+
+---
+
+## 4️⃣ Core CS – Computer Networks
+
+### Topics Covered:
+- What is the Internet  
+- Who owns the Internet  
+- Internet connections and ISPs  
+- Types of Internet Connections:
+  - Phone Modem  
+  - DSL  
+  - Cable Modem  
+  - Broadband  
+
+### Network Devices:
+- Hub  
+- Repeater  
+- Modem  
+- Switch  
+- Bridge  
+- Router  
+- Gateway  
+- Wireless Access Point  
+
+**Outcome:** Improved understanding of internet infrastructure and networking devices.
+
+---
+
+## 5️⃣ Data Structures & Algorithms (DSA)
+
+### Pattern Problems Solved:
+- Hollow Diamond Pattern  
+- Butterfly Pattern  
+- Pyramid Pattern  
+
+**Outcome:** Continued improvement in nested loops and pattern-based problem solving.
+
+---
+
+## ✅ Status Summary
+- **Day Completed:** ✔️  
+- **Penalty Covered:** ✔️ (Day 1 – Core CS)  
+- **Consistency:** Maintained  
+- **Next Goal:** Day 3 – Strengthen backend and DSA fundamentals  
+
+> *“Consistency is more important than intensity.”*
+
+
 
 
 ---
