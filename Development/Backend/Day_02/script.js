@@ -19,7 +19,13 @@ const fs = require('fs');
 // });
 
 // Copy a file
-fs.copyFile('example.txt', 'copied_file.txt', (err) => {
+// fs.copyFile('example.txt', 'copied_file.txt', (err) => {
+//     if (err) throw err;
+//     console.log('File copied successfully.');
+// });
+
+// Rename a file
+fs.rename('copied_file.txt', 'renamed_copiedfile.txt', (err) => {
     if (err) throw err;
-    console.log('File copied successfully.');
+    console.log('File renamed successfully.');
 });
