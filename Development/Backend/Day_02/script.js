@@ -25,7 +25,13 @@ const fs = require('fs');
 // });
 
 // Rename a file
-fs.rename('copied_file.txt', 'renamed_copiedfile.txt', (err) => {
+// fs.rename('copied_file.txt', 'renamed_copiedfile.txt', (err) => {
+//     if (err) throw err;
+//     console.log('File renamed successfully.');
+// });
+
+// Delete a file
+fs.unlink('renamed_copiedfile.txt', (err) => {
     if (err) throw err;
-    console.log('File renamed successfully.');
+    console.log('File deleted successfully.');
 });
