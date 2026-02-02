@@ -341,6 +341,136 @@ Revision of previous learning and Git fundamentals (weekend plan)
 > *“Consistency is more important than intensity.”*
 
 
+---
+
+## 📅 Day 3 Progress
+**Date:** 02-02-2026 (Monday)  
+**Day:** 3 / 90
+
+Day 3 focused on **Operating System fundamentals, backend ecosystem concepts, Git branching, DSA practice**, and revision of semester subjects.
+
+---
+
+## 1️⃣ Data Structures & Algorithms (DSA)
+
+### Focus:
+Pattern-based problems and logic building
+
+### Work Done:
+- Solved and revised additional pattern questions
+- Strengthened understanding of **nested loops**
+- Focused on developing logical thinking and pattern visualization
+
+**Outcome:** Built a strong foundation for loop-based problem solving, essential for future DSA topics.
+
+---
+
+## 2️⃣ Core CS – Operating Systems
+
+### What is an Operating System?
+An **Operating System (OS)** is system software that manages all the **hardware and software resources** of a computer system.  
+It provides users with a **safe, efficient, and convenient environment** to execute programs by handling resource allocation and coordination.
+
+### Need of an Operating System:
+- Prevents bulky and repetitive code for hardware interaction
+- Efficient **resource management**
+- **Memory management**
+- **Isolation and protection** between processes and users
+
+### Goals of an Operating System:
+1. Maximum utilization of CPU  
+2. Avoidance of process starvation  
+3. High-priority process execution  
+
+### Types of Operating Systems:
+
+- **Single Process Operating System**  
+  Supports execution of only one process at a time. Suitable for simple systems with limited requirements.
+
+- **Batch Processing Operating System**  
+  Groups similar jobs into batches and executes them sequentially without user interaction.
+
+- **Multiprogramming Operating System**  
+  Allows multiple programs to reside in memory and shares CPU time among them to improve utilization.
+
+- **Multitasking Operating System**  
+  Enables multiple tasks or processes to run seemingly at the same time by rapidly switching between them.
+
+- **Multiprocessor Operating System**  
+  Uses more than one CPU to execute processes in parallel, improving performance and reliability.
+
+- **Distributed Operating System**  
+  Manages a group of independent computers and makes them appear as a single coherent system.
+
+- **Real-Time Operating System (RTOS)**  
+  Ensures tasks are executed within strict time constraints, commonly used in embedded and safety-critical systems.
+
+**Outcome:** Gained foundational clarity on operating systems and their classifications.
+
+---
+
+## 3️⃣ Development – Backend
+
+### Focus:
+Backend ecosystem fundamentals and NPM understanding
+
+### Topics Covered:
+- **NPM (Node Package Manager):**  
+  Tool used to manage project dependencies, scripts, and packages in Node.js applications.
+
+- **`node_modules` Folder:**  
+  Directory where all installed project dependencies are stored locally.
+
+- **Dependencies:**  
+  Packages required for the application to run in production.
+
+- **Dev Dependencies:**  
+  Packages used only during development (testing, formatting, tooling).
+
+- **Scripts:**  
+  - Understanding default NPM scripts
+  - How custom scripts work
+  - How scripts are executed using the PATH provided by `node_modules/.bin`
+
+**Outcome:** Improved understanding of project structure and dependency management in backend applications.
+
+---
+
+## 4️⃣ System + Linux + Git
+
+### Topics Covered:
+- Git **Branches**
+- Branch creation and switching
+- **Branch merging**
+- Merge techniques:
+  - Fast-forward merge
+  - Three-way merge
+- Understanding merge conflicts (high-level overview)
+
+**Outcome:** Learned how parallel development works in real-world Git workflows.
+
+---
+
+## 5️⃣ Semester Subject – Revision
+
+### Work Done:
+- Revised all semester subject topics completed till now
+- Focused on reinforcing concepts through repetition
+
+**Outcome:** Better retention and confidence in semester subject preparation.
+
+---
+
+## ✅ Status Summary
+- **Day Completed:** ✔️  
+- **Consistency:** Maintained  
+- **Learning Balance:** Core CS + Backend + DSA  
+- **Next Goal:** Day 4 – Deepen OS concepts and backend practice  
+
+> *“Strong fundamentals today create scalable skills tomorrow.”*
+
+
+
 
 
 ---
