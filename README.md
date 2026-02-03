@@ -470,6 +470,95 @@ Backend ecosystem fundamentals and NPM understanding
 > *“Strong fundamentals today create scalable skills tomorrow.”*
 
 
+---
+
+## 📅 Day 4 Progress
+**Date:** 03-02-2026  
+**Day:** 4 / 90
+
+Day 4 focused on **DSA array fundamentals, DBMS (SQL) basics, backend middleware concepts, Git branching, and hands-on cybersecurity experimentation**.
+
+---
+
+## 1️⃣ Data Structures & Algorithms (DSA)
+
+### Focus:
+Arrays and basic problem-solving
+
+### Topics Covered:
+- Introduction to arrays
+- Solved basic array problems:
+  - Finding the **largest element** in an array
+  - Finding the **smallest element** in an array
+  - Finding the **index of the largest element**
+  - Finding the **index of the smallest element**
+
+**Outcome:** Built a strong foundation in array traversal and indexing logic, essential for advanced DSA problems.
+
+---
+
+## 2️⃣ Core CS – DBMS (SQL)
+
+### Topics Covered:
+- What is a **Database**
+- Types of Databases:
+  - DBMS
+  - RDBMS
+- Introduction to **SQL**
+- Creating a database
+- Using a database
+- Creating tables
+- Inserting values into tables
+
+**Outcome:** Gained hands-on exposure to relational databases and basic SQL operations.
+
+---
+
+## 3️⃣ Development – Backend
+
+### Focus:
+Backend request flow and robustness
+
+### Topics Covered:
+- Implementing **middleware**
+- Understanding middleware flow in backend applications
+- **Error handling** and centralized error management
+
+**Outcome:** Improved understanding of backend architecture and handling errors gracefully.
+
+---
+
+## 4️⃣ System + Linux + Git
+
+### Topics Covered:
+- Continued Git branching concepts
+- Branch merging workflows
+- Understanding how branches help parallel development
+
+**Outcome:** Strengthened practical knowledge of Git collaboration workflows.
+
+---
+
+## 5️⃣ Semester Subject – Practical
+
+### Experiment Performed:
+- Identified system **open ports**, **running services**, and **vulnerabilities**
+- Documented findings professionally
+
+**Outcome:** Gained hands-on experience in system analysis and vulnerability assessment.
+
+---
+
+## ✅ Status Summary
+- **Day Completed:** ✔️  
+- **Consistency:** Maintained  
+- **Hands-on Practice:** Strong  
+- **Next Goal:** Day 5 – Advance DSA + backend concepts  
+
+> *“Practice turns knowledge into skill.”*
+
+
+
 
 
 
