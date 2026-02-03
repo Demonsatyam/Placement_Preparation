@@ -3,7 +3,7 @@ const app = express();
 
 // app middleware
 app.use((req, res, next) => {
-    console.log("middleware called");
+    console.log("middleware called hua hai");
     next();
 });
 
